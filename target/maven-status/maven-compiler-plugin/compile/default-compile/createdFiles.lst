@@ -1,0 +1,5 @@
+com\ataraxia\Data\Data.class
+com\ataraxia\DateConverter\App.class
+com\ataraxia\Exception\DateConversionException.class
+com\ataraxia\Models\BSDate.class
+com\ataraxia\Utils\Converter.class
